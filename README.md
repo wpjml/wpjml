@@ -7,15 +7,17 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 
-University of Electro-Communications
-Major: Optical Engineering
-Research Interests: Quantum Optics, Optical Fiber Technology, Stable Lasers, High Power Lasers
-- 🌱
-I’m currently learning flutter and Python!
-- 📫
-How to reach me: [Email - wpjml.030927@gmail.com]
-<br>
+## 🎓 学歴
+- **University**: University of Electro-Communications
+- **Major**: Optical Engineering
+- **Research Interests**: Quantum Optics, Optical Fiber Technology, Stable Lasers, High Power Lasers
+
+## 🌱 学びと成長
+I am currently learning Flutter and Python to enhance my programming skills and to stay updated with the latest technologies in software development!!
+
+## 📫 連絡先
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
 
 <!-- 3. 好きな技術スタックに変更 -->
