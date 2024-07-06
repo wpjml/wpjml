@@ -17,7 +17,6 @@ I am currently learning Flutter and Python to enhance my programming skills and 
 
 ## 📫 Contact
 - **Email**: [wpjml.030927@gmail.com]
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/YukiSakamoto)
 
 
 <!-- 3. 好きな技術スタックに変更 -->
