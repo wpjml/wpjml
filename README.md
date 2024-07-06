@@ -7,15 +7,15 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-## 🎓 学歴
+## 🎓 Education
 - **University**: University of Electro-Communications
 - **Major**: Optical Engineering
 - **Research Interests**: Quantum Optics, Optical Fiber Technology, Stable Lasers, High Power Lasers
 
-## 🌱 学びと成長
+## 🌱 Learning and Growth
 I am currently learning Flutter and Python to enhance my programming skills and to stay updated with the latest technologies in software development!!
 
-## 📫 連絡先
+## 📫 Contact
 - **Email**: [wpjml.030927@gmail.com]
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/YukiSakamoto)
 
