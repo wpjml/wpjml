@@ -12,7 +12,7 @@
 - **Major**: Optical Engineering
 - **Research Interests**: Quantum Optics, Optical Fiber Technology, Stable Lasers, High Power Lasers
 
-## 🌱 Learning and Growth
+## 📚 Learning and Growth
 I am currently learning Flutter and Python to enhance my programming skills and to stay updated with the latest technologies in software development!!
 
 ## 📫 Contact
