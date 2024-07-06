@@ -16,8 +16,8 @@
 I am currently learning Flutter and Python to enhance my programming skills and to stay updated with the latest technologies in software development!!
 
 ## 📫 連絡先
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Email**: [wpjml.030927@gmail.com]
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/YukiSakamoto)
 
 
 <!-- 3. 好きな技術スタックに変更 -->
