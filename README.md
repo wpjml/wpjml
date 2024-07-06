@@ -7,7 +7,10 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a backend engineer.
+- 🧑‍💻 University of Electro-Communications
+Major: Information and Communication Engineering
+Cluster: Cluster 2
+Research Interests: Quantum Optics, Optical Fiber Technology, Stable Lasers, High Power Lasers
 - 🌱 I’m currently learning go!
 - 📫 How to reach me: [Email - wpjml.030927@gmail.com]
 <br>
