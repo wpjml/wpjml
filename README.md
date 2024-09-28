@@ -23,7 +23,7 @@ I am currently learning Ruby and Python to enhance my programming skills and to 
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,python,flutter,dart" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,python,flutter,dart,ruby,ruby on rails" />
 <br>
 
 
