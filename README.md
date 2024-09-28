@@ -13,7 +13,7 @@
 - **Research Interests**: Quantum Optics, Optical Fiber Technology, Stable Lasers, High Power Lasers
 
 ## 📚 Learning and Growth
-I am currently learning Ruby and Python to enhance my programming skills and to stay updated with the latest technologies in software development!!
+I am currently learning Ruby on Rails and Python to enhance my programming skills and to stay updated with the latest technologies in software development!!
 
 ## 📫 Contact
 - **Email**: [wpjml.030927@gmail.com]
