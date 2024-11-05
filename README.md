@@ -5,15 +5,8 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-## 🎓 Education
-- **University**: University of Electro-Communications
-- **Major**: Optical Engineering
-- **Research Interests**: Quantum Optics, Optical Fiber Technology, Stable Lasers, High Power Lasers
-
-
-## 📚 Learning and Growth
-I am currently learning Ruby on Rails and Python to enhance my programming skills and to stay updated with the latest technologies in software development!!
-
+## 🎓 Profile
+- **LinkedIn**: [https://www.linkedin.com/in/yuki-sakamoto-b11001301/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
 
 ## 📫 Contact
 - **Email**: [wpjml.030927@gmail.com]
