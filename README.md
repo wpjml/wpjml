@@ -2,6 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=wpjml" />
 </div>
 
+
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 ## 🎓 Education
@@ -9,8 +10,10 @@
 - **Major**: Optical Engineering
 - **Research Interests**: Quantum Optics, Optical Fiber Technology, Stable Lasers, High Power Lasers
 
+
 ## 📚 Learning and Growth
 I am currently learning Ruby on Rails and Python to enhance my programming skills and to stay updated with the latest technologies in software development!!
+
 
 ## 📫 Contact
 - **Email**: [wpjml.030927@gmail.com]
