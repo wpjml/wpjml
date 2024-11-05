@@ -6,7 +6,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 ## 🎓 Profile
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/yuki-sakamoto-b11001301/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- [LinkedIn](https://www.linkedin.com/in/yuki-sakamoto-b11001301/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ## 📫 Contact
 - **Email**: [wpjml.030927@gmail.com]
