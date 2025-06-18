@@ -13,7 +13,7 @@
 
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,tailwindcss,javascript,typescript,react,nextjs,prisma,docker,python,selenium,ruby,rails,postgres,git,Firebase" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,tailwindcss,javascript,typescript,react,nextjs,prisma,docker,python,selenium,ruby,rails,postgres,git,firebase" />
 <br>
 
 
